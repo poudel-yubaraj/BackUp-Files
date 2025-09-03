@@ -1,0 +1,18 @@
+ a {
+    text-decoration: none;
+}
+
+#notices {
+ animation-name: notices;
+ animation-duration: 30s;
+ animation-direction: normal;
+ position:relative;
+ animation-timing-function: linear;
+ animation-iteration-count: infinite;
+ overflow: hidden;
+}
+
+@keyframes notices{
+ from{left:1200px;}
+ to{left:-600px;}
+}

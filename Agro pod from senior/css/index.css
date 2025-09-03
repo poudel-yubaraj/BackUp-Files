@@ -1,0 +1,57 @@
+
+
+#mynavbar ul li a:hover{
+  
+  background-color:rgb(245, 9, 9);
+}
+
+  
+
+.aboutsoftware{
+    text-align: justify;
+    text-justify: inter-word;
+} 
+
+a{
+  text-decoration: none;
+}
+
+
+.indicators {
+  animation-name: indicator;
+  animation-duration:30s;
+  animation-direction:reverse;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  position:relative;
+}
+@keyframes indicator{
+  from{top: -1400px;}
+  to{top:350px;}
+}
+
+
+  
+#notices {
+  animation-name: notices;
+  animation-duration: 30s;
+  animation-direction: normal;
+  position:relative;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  overflow: hidden;
+ }
+ 
+ @keyframes notices{
+  from{left:1200px;}
+  to{left:-600px;}
+ }
+ 
+ 
+
+#notices:hover,.indicators:hover{
+animation-play-state: paused;
+  }
+
+
+ 

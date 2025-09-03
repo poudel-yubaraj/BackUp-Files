@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+       <!-- favicon -->
+<link rel="icon" type="images/x-icon" href="images/seedling-solid.svg">
+<!-- local Css -->
+<link rel="stylesheet" href="css/index.css" type="text/css">
+<link rel="stylesheet" href="css/animation.css" type="text/css">
+<!-- Bootstrap via content delivery network -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- fontawesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    
+</head>
+<body>
+<section class="disease agent-single" id="21">
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="agent-avatar-box">
+                            <img src="../images/ko.jpg" alt="" class="agent-avatar img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-7 section-md-t3">
+                        <div class="agent-info-box">
+                            <div class="agent-title">
+                                <div class="title-box-d">
+                                    <h3 class="title-d">Iris Spot Virus</h3>
+                                </div>
+                            </div>
+                            <div class="agent-content mb-3">
+                                <p class="content-d color-text-a" style="text-align: justify;text-justify: inter-word;">
+                                        यो रोग प्याज र गोलभेंडामा स्पटेट ओइलाउने भाइरसबाट ९त्यmबतय क्उयततभम ध्ष्ति ख्ष्चगक० लाग्दछ ।
+यसको बिशेष लक्षण पूmलको डाँठमा हल्का पहेंलो पराले रंगको, आँखा वा तासको इटा आकारको दागहरु देखा पर्दछन् । पूmलको डाँठका केहीे दागहरुमा संकेन्द्रित चक्रहरु ९ऋयलअभलतचष्अ० हरियो र पहेंलो रंग मिसिएको देखिन्छ ।
+रोगको प्रकोप बढी भएमा दागले डाँठलाई घेर्दछ फलस्वरुप पूmलको थुँगा मर्दछ र बीउको गुणस्तर तथा बीउ उत्पादन कम हुन्छ । थ्रिप्स कीरा ९त्जचष्उक तबदबअष्०ले यो भाइरस सार्दछ ।
+                                </p>
+
+                                <div class="info-agents color-a">
+                                    <h4 class="title-d">ब्यवस्थापन </h4>
+                                    <p class="content-d color-text-a" style="text-align: justify;text-justify: inter-word;">
+                                            रोगग्रस्त बोटलाई रगिङ्ग गरी समयमा हटाएर नष्ट गर्ने ।
+भाइरस सार्ने थ्रीप्स कीरालाई डेल्टामेथ्रीन २.८% इ.सी. (डेसिस) १ मि.लि. प्रति लि. वा स्पिनोस्याड ४५% इ.सी. (ट्रेसर) १ मि.लि. प्रति ३ लिटर पानीमा मिसाई १५ दिनको अन्तरालमा छर्ने ।
+कुनै पनि बिषादि प्रयोग गर्दा तिनको पर्खनुपर्ने समयलाई ध्यानदिएर मात्र बाली उत्पादन लिनु पर्दछ अन्यथा बिषादिको असर उपभोक्तालाई पर्न जान्छ ।
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+    
+</body>
+</html>
